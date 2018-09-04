@@ -1,2 +1,3 @@
-# DA2017-Case_Studies
-Data Files for case studies in the Data Analysis Workshop
+# DAwR-CS
+
+Data Files for the Data Analysis with R, Case Studies workshop.
